@@ -1,5 +1,6 @@
 {
-  "urls": [
+"urls": 
+[
 {
     "url": "",
     "name": "接口更新9.5"
@@ -56,5 +57,5 @@
     "name":"电视",
     "url":"https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json"
 }
-    ]
+]
 }
